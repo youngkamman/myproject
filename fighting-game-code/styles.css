@@ -1,0 +1,69 @@
+
+
+
+ body {
+    background-color: #293241;
+    
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#sidecontent {
+    background-color: black;
+    width:1200px;
+    height:1720px
+
+}
+
+#div1{
+    background-color: black;
+}
+
+#start-screen{
+    /* width: 1024px;
+    height: 576; */
+    /* background-color: black; */
+    display: block;
+    justify-content: center;
+
+    
+    
+    }
+
+    #start-screen button {
+        width: 10em;
+        height: 3em;
+        /* background-color: darkgrey;
+        text-emphasis-color: white;
+        color: white */
+         position: relative;
+         bottom: 25em;
+        
+         left: 33em
+    }
+
+    #hider {
+        /* width: 10em;
+        height: 3em; */
+        display: block;
+        background-color: black;
+        position: relative;
+         bottom: 38em;
+          height:4em 
+         
+        
+         /* left: 33em */
+    }
+  
